@@ -126,7 +126,13 @@ input, select, textarea {
 		-webkit-text-stroke: 0.25px;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1{
+		font-family: Pacifico, sans-serif;
+		font-weight: 400;
+		text-transform: uppercase;
+		line-height: 1.75em;
+
+	h2, h3, h4, h5, h6 {
 		font-weight: 400;
 		text-transform: uppercase;
 		line-height: 1.75em;
