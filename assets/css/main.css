@@ -2445,8 +2445,13 @@ input, select, textarea {
 				letter-spacing: 0;
 			}
 
-			h1, h2, h3, h4, h5, h6 {
+			h2, h3, h4, h5, h6 {
 				font-size: 1em;
+			}
+
+			h1 {
+				font-size: normal;
+				letter-spacing: 0;
 			}
 
 			h2 {
