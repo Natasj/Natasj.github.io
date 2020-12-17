@@ -2577,8 +2577,8 @@ input, select, textarea {
 				}
 
 					#header header h1 {
-						font-size: 1.75em;
-						letter-spacing: 6px;
+						font-size: normal;
+						letter-spacing: normal;
 					}
 
 				#header footer {
