@@ -148,6 +148,11 @@ input, select, textarea {
 		letter-spacing: 5px;
 	}
 
+	h6 {
+		margin-bottom: 1em;
+		text-align:center;
+	}
+
 	strong, b {
 		font-weight: 400;
 	}
