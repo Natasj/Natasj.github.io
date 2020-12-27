@@ -2118,7 +2118,7 @@ input, select, textarea {
 			}
 
 		#banner p {
-			margin: 0;
+			margin: 0 0 2em 0;
 		}
 
 		#banner footer {
