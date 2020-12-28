@@ -3087,7 +3087,156 @@ input, select, textarea {
 						font-size: 1.5em;
 						letter-spacing: 6px;
 					}
+					/* Banner2 */
 
+								#banner2 {
+									padding: 3em 2em 3em 2em;
+									background-size: auto 150%;
+								}
+
+									#banner2 header {
+										margin: 0 0 1em 0;
+									}
+
+										#banner2 header h2 {
+											font-size: 1.5em;
+											letter-spacing: 6px;
+										}
+										/* Banner3 */
+
+											#banner3 {
+												padding: 3em 2em 3em 2em;
+												background-size: auto 150%;
+											}
+
+												#banner3 header {
+													margin: 0 0 1em 0;
+												}
+
+													#banner3 header h2 {
+														font-size: 1.5em;
+														letter-spacing: 6px;
+													}
+													/* Banner4 */
+
+														#banner4 {
+															padding: 3em 2em 3em 2em;
+															background-size: auto 150%;
+														}
+
+															#banner4 header {
+																margin: 0 0 1em 0;
+															}
+
+																#banner4 header h2 {
+																	font-size: 1.5em;
+																	letter-spacing: 6px;
+																}
+																/* Banner5 */
+
+																	#banner5 {
+																		padding: 3em 2em 3em 2em;
+																		background-size: auto 150%;
+																	}
+
+																		#banner5 header {
+																			margin: 0 0 1em 0;
+																		}
+
+																			#banner5 header h2 {
+																				font-size: 1.5em;
+																				letter-spacing: 6px;
+																			}
+																			/* Banner6 */
+
+																				#banner6 {
+																					padding: 3em 2em 3em 2em;
+																					background-size: auto 150%;
+																				}
+
+																					#banner6 header {
+																						margin: 0 0 1em 0;
+																					}
+
+																						#banner6 header h2 {
+																							font-size: 1.5em;
+																							letter-spacing: 6px;
+																						}
+																						/* Banner7 */
+
+																							#banner7 {
+																								padding: 3em 2em 3em 2em;
+																								background-size: auto 150%;
+																							}
+
+																								#banner7 header {
+																									margin: 0 0 1em 0;
+																								}
+
+																									#banner7 header h2 {
+																										font-size: 1.5em;
+																										letter-spacing: 6px;
+																									}
+																									/* Banner8 */
+
+																										#banner8 {
+																											padding: 3em 2em 3em 2em;
+																											background-size: auto 150%;
+																										}
+
+																											#banner8 header {
+																												margin: 0 0 1em 0;
+																											}
+
+																												#banner8 header h2 {
+																													font-size: 1.5em;
+																													letter-spacing: 6px;
+																												}
+																												/* Banner9 */
+
+																													#banner9 {
+																														padding: 3em 2em 3em 2em;
+																														background-size: auto 150%;
+																													}
+
+																														#banner9 header {
+																															margin: 0 0 1em 0;
+																														}
+
+																															#banner9 header h2 {
+																																font-size: 1.5em;
+																																letter-spacing: 6px;
+																															}
+																															/* Banner10 */
+
+																																#banner10 {
+																																	padding: 3em 2em 3em 2em;
+																																	background-size: auto 150%;
+																																}
+
+																																	#banner10 header {
+																																		margin: 0 0 1em 0;
+																																	}
+
+																																		#banner10 header h2 {
+																																			font-size: 1.5em;
+																																			letter-spacing: 6px;
+																																		}
+																																		/* Banner11 */
+
+																																			#banner11 {
+																																				padding: 3em 2em 3em 2em;
+																																				background-size: auto 150%;
+																																			}
+
+																																				#banner11 header {
+																																					margin: 0 0 1em 0;
+																																				}
+
+																																					#banner11 header h2 {
+																																						font-size: 1.5em;
+																																						letter-spacing: 6px;
+																																					}
 		/* Footer */
 
 			#footer .icons {
