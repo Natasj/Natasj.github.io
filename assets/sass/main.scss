@@ -902,7 +902,34 @@
 				border-bottom-color: rgba(255, 255, 255, 0);
 			}
 		}
-	}
+
+		/* List */
+
+			ul {
+				list-style: disc;
+				padding-left: 1em;
+
+				li {
+					padding-left: 1.5em;
+					margin-top: 0em;
+
+					&:first-child {
+						margin-top: 0;
+					}
+				}
+			}
+
+			ol {
+				list-style: decimal;
+				padding-left: 1.25em;
+
+				li {
+					padding-left: 1.25em;
+					margin-top: 1.5em;
+				}
+			}
+		}
+
 
 /* Footer */
 
