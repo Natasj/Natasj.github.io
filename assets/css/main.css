@@ -155,7 +155,6 @@ input, select, textarea {
 
 	strong, b {
 		font-weight: 400;
-		margin-top: 2em;
 	}
 
 	em, i {
@@ -202,6 +201,10 @@ input, select, textarea {
 	}
 
 	p, dl, table {
+		margin-bottom: 1em;
+	}
+
+	b {
 		margin-bottom: 1em;
 	}
 
