@@ -36,9 +36,6 @@ body {
 
 ol, ul {
 	list-style: none;
-  margin-top:0;
-	margin-bottom:0 }
-
 }
 
 blockquote, q {
@@ -1590,7 +1587,7 @@ input, select, textarea {
 
 		ul.menu li {
 			display: inline-block;
-			line-height: 0;
+			line-height: 1em;
 			border-left: solid 1px #dad9d9;
 			padding: 0 0 0 0.5em;
 			margin: 0 0 0 0.5em;
