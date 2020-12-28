@@ -200,12 +200,8 @@ input, select, textarea {
 		font-style: italic;
 	}
 
-	p, dl, table {
+	p, ul, ol, dl, table {
 		margin-bottom: 1em;
-	}
-
-	ul, ol {
-		margin-bottom: 0;
 	}
 
 	header {
