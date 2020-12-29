@@ -2485,6 +2485,13 @@ input, select, textarea {
 																									margin: 0 0 1em 0;
 																								}
 
+																								#banner9 header h1 {
+																									font-family: 'Pacifico', sans-serif;
+																									font-weight: normal;
+																									font-size: 2em;
+																									letter-spacing: normal;
+																								}
+
 																									#banner9 header h2 {
 																										font-weight: 400;
 																										font-size: 1.75em;
@@ -2507,6 +2514,7 @@ input, select, textarea {
 																									#banner9 a:hover {
 																										border-bottom-color: rgba(255, 255, 255, 0);
 																									}
+
 																									/* Banner10 */
 
 																										#banner10 {
