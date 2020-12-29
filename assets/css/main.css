@@ -2128,6 +2128,14 @@ input, select, textarea {
 			margin: 0 0 1em 0;
 		}
 
+		#banner header h1 {
+			font-family: 'Pacifico', sans-serif;
+			font-weight: normal;
+			font-size: 2em;
+			letter-spacing: normal;
+			text-align:center;
+		}
+
 			#banner header h2 {
 				font-weight: 400;
 				font-size: 1.75em;
@@ -2171,6 +2179,14 @@ input, select, textarea {
 
 					#banner2 header {
 						margin: 0 0 1em 0;
+					}
+
+					#banner2 header h1 {
+						font-family: 'Pacifico', sans-serif;
+						font-weight: normal;
+						font-size: 2em;
+						letter-spacing: normal;
+						text-align:center;
 					}
 
 						#banner2 header h2 {
@@ -2217,6 +2233,14 @@ input, select, textarea {
 									margin: 0 0 1em 0;
 								}
 
+								#banner3 header h1 {
+									font-family: 'Pacifico', sans-serif;
+									font-weight: normal;
+									font-size: 2em;
+									letter-spacing: normal;
+									text-align:center;
+								}
+
 									#banner3 header h2 {
 										font-weight: 400;
 										font-size: 1.75em;
@@ -2259,6 +2283,14 @@ input, select, textarea {
 
 											#banner4 header {
 												margin: 0 0 1em 0;
+											}
+
+											#banner4 header h1 {
+												font-family: 'Pacifico', sans-serif;
+												font-weight: normal;
+												font-size: 2em;
+												letter-spacing: normal;
+												text-align:center;
 											}
 
 												#banner4 header h2 {
@@ -2306,6 +2338,14 @@ input, select, textarea {
 														margin: 0 0 1em 0;
 													}
 
+													#banner5 header h1 {
+														font-family: 'Pacifico', sans-serif;
+														font-weight: normal;
+														font-size: 2em;
+														letter-spacing: normal;
+														text-align:center;
+													}
+
 														#banner5 header h2 {
 															font-weight: 400;
 															font-size: 1.75em;
@@ -2348,6 +2388,14 @@ input, select, textarea {
 
 																#banner6 header {
 																	margin: 0 0 1em 0;
+																}
+
+																#banner6 header h1 {
+																	font-family: 'Pacifico', sans-serif;
+																	font-weight: normal;
+																	font-size: 2em;
+																	letter-spacing: normal;
+																	text-align:center;
 																}
 
 																	#banner6 header h2 {
@@ -2396,6 +2444,13 @@ input, select, textarea {
 																				margin: 0 0 1em 0;
 																			}
 
+																			#banner7 header h1 {
+																				font-family: 'Pacifico', sans-serif;
+																				font-weight: normal;
+																				font-size: 2em;
+																				letter-spacing: normal;
+																				text-align:center;
+																			}
 																				#banner7 header h2 {
 																					font-weight: 400;
 																					font-size: 1.75em;
@@ -2439,6 +2494,14 @@ input, select, textarea {
 
 																					#banner8 header {
 																						margin: 0 0 1em 0;
+																					}
+
+																					#banner8 header h1 {
+																						font-family: 'Pacifico', sans-serif;
+																						font-weight: normal;
+																						font-size: 2em;
+																						letter-spacing: normal;
+																						text-align:center;
 																					}
 
 																						#banner8 header h2 {
@@ -2537,7 +2600,13 @@ input, select, textarea {
 																											#banner10 header {
 																												margin: 0 0 1em 0;
 																											}
-
+																											#banner10 header h1 {
+																												font-family: 'Pacifico', sans-serif;
+																												font-weight: normal;
+																												font-size: 2em;
+																												letter-spacing: normal;
+																												text-align:center;
+																											}
 																												#banner10 header h2 {
 																													font-weight: 400;
 																													font-size: 1.75em;
@@ -2582,6 +2651,13 @@ input, select, textarea {
 																															margin: 0 0 1em 0;
 																														}
 
+																														#banner11 header h1 {
+																															font-family: 'Pacifico', sans-serif;
+																															font-weight: normal;
+																															font-size: 2em;
+																															letter-spacing: normal;
+																															text-align:center;
+																														}
 																															#banner11 header h2 {
 																																font-weight: 400;
 																																font-size: 1.75em;
