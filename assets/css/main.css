@@ -2115,14 +2115,14 @@ input, select, textarea {
 		color: #fff;
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		text-align: left;
-		background: #3F37C9 url("images/banner.svg") bottom center no-repeat;
+		background: #98255E url("images/banner.svg") bottom center no-repeat;
 		padding: 5em 5em 2em 5em;
 		margin: 0;
 		background-size: 125% auto;
 	}
 
 		#banner .button {
-			color: #3F37C9;
+			color: #98255E;
 			text-shadow: 0 0 0.5px rgba(53, 184, 130, 0.25);
 		}
 
