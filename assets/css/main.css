@@ -96,7 +96,7 @@ input, select, textarea {
 		background-color: #35b88f;
 		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
 		background-repeat: repeat, no-repeat;
-		background-size: auto, cover;
+		background-size: 100vw auto;
 		background-position: top left, center 0;
 		background-attachment: fixed, fixed;
 		font-family: 'Source Sans Pro', sans-serif;
