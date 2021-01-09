@@ -2384,7 +2384,7 @@ input, select, textarea {
 																text-align: left;
 																background: #fff;
 																padding: 5em 5em 2em 5em;
-																margin: 0em 2em 0em 2em;
+																margin: 2em 2em 0em 2em;
 																background-size: 125% auto;
 															}
 
@@ -2399,7 +2399,7 @@ input, select, textarea {
 
 																#banner6 header h1 {
 																	font-family: 'Pacifico', sans-serif;
-																  color: #6930C3;
+																  color: #247B5F;
 																	font-weight: normal;
 																	font-size: 2em;
 																	letter-spacing: normal;
@@ -2440,12 +2440,12 @@ input, select, textarea {
 																			text-align: left;
 																			background: #fff;
 																			padding: 5em 5em 2em 5em;
-																			margin: 0em 2em 0em 2em;
+																			margin: 2em 2em 0em 2em;
 																			background-size: 125% auto;
 																		}
 
 																			#banner7 .button {
-																				color: #6930C3;
+																				color: #247B5F;
 																				text-shadow: 0 0 0.5px rgba(53, 184, 130, 0.25);
 																			}
 
@@ -2454,6 +2454,7 @@ input, select, textarea {
 																			}
 
 																			#banner7 header h1 {
+																				color: #247B5F
 																				font-family: 'Pacifico', sans-serif;
 																				font-weight: normal;
 																				font-size: 2em;
@@ -2493,12 +2494,12 @@ input, select, textarea {
 																					text-align: left;
 																					background: #fff;
 																					padding: 5em 5em 2em 5em;
-																					margin: 0em 2em 0em 2em;
+																					margin: 2em 2em 0em 2em;
 																					background-size: 125% auto;
 																				}
 
 																					#banner8 .button {
-																						color: #6930C3;
+																						color: #247B5F;
 																						text-shadow: 0 0 0.5px rgba(53, 184, 130, 0.25);
 																					}
 
@@ -2507,6 +2508,7 @@ input, select, textarea {
 																					}
 
 																					#banner8 header h1 {
+																						color: #247B5F
 																						font-family: 'Pacifico', sans-serif;
 																						font-weight: normal;
 																						font-size: 2em;
@@ -2546,12 +2548,12 @@ input, select, textarea {
 																								text-align: left;
 																								background: #fff;
 																								padding: 5em 5em 2em 5em;
-																								margin: 0em 2em 0em 2em;
+																								margin: 2em 2em 0em 2em;
 																								background-size: 125% auto;
 																							}
 
 																								#banner9 .button {
-																									color: #6930C3;
+																									color: #247B5F;
 																									text-shadow: 0 0 0.5px rgba(53, 184, 130, 0.25);
 																								}
 
@@ -2560,6 +2562,7 @@ input, select, textarea {
 																								}
 
 																								#banner9 header h1 {
+																									color: #247B5F
 																									font-family: 'Pacifico', sans-serif;
 																									font-weight: normal;
 																									font-size: 2em;
@@ -2600,12 +2603,12 @@ input, select, textarea {
 																											text-align: left;
 																											background: #fff;
 																											padding: 5em 5em 2em 5em;
-																											margin: 0em 2em 0em 2em;
+																											margin: 2em 2em 0em 2em;
 																											background-size: 125% auto;
 																										}
 
 																											#banner10 .button {
-																												color: #6930C3;
+																												color: #247B5F;
 																												text-shadow: 0 0 0.5px rgba(53, 184, 130, 0.25);
 																											}
 
@@ -2613,6 +2616,7 @@ input, select, textarea {
 																												margin: 0 0 1em 0;
 																											}
 																											#banner10 header h1 {
+																											color: #247B5F
 																												font-family: 'Pacifico', sans-serif;
 																												font-weight: normal;
 																												font-size: 2em;
@@ -2650,13 +2654,13 @@ input, select, textarea {
 																														text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 																														text-align: left;
 																														background: #fff;
-																														padding: 5em 5em 2em 5em;
-																														margin: 0em 2em 0em 2em;
+																														padding: 5em 5em 5em 5em;
+																														margin: 2em 2em 0em 2em;
 																														background-size: 125% auto;
 																													}
 
 																														#banner11 .button {
-																															color: #6930C3;
+																															color: #247B5F;
 																															text-shadow: 0 0 0.5px rgba(53, 184, 130, 0.25);
 																														}
 
@@ -2665,6 +2669,7 @@ input, select, textarea {
 																														}
 
 																														#banner11 header h1 {
+																															color: #247B5F
 																															font-family: 'Pacifico', sans-serif;
 																															font-weight: normal;
 																															font-size: 2em;
