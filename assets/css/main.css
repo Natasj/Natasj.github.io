@@ -2261,8 +2261,8 @@ input, select, textarea {
 								}
 
 								#banner3 a {
-									color: inherit;
-									border-bottom-color: rgba(255, 255, 255, 0.5);
+									color: #fff;
+									border-bottom-color: #35b88f;
 								}
 
 									#banner3 a:hover {
