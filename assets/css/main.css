@@ -2155,9 +2155,9 @@ input, select, textarea {
 		}
 
 		#banner a {
-			color: inherit;
-			border-bottom-color: rgba(255, 255, 255, 0.5);
-		}
+			color: #422040;
+			border-bottom-color: #422040;
+}
 
 			#banner a:hover {
 				border-bottom-color: rgba(255, 255, 255, 0);
@@ -2210,10 +2210,9 @@ input, select, textarea {
 					}
 
 					#banner2 a {
-						color: inherit;
-						border-bottom-color: rgba(255, 255, 255, 0.5);
-					}
-
+						color: #422040;
+						border-bottom-color: #422040;
+}
 						#banner2 a:hover {
 							border-bottom-color: rgba(255, 255, 255, 0);
 						}
@@ -2264,8 +2263,8 @@ input, select, textarea {
 								}
 
 								#banner3 a {
-									color: #35b88f;
-									border-bottom-color: #35b88f;
+									color: #422040;
+									border-bottom-color: #422040;
 								}
 
 									#banner3 a:hover {
@@ -2318,9 +2317,9 @@ input, select, textarea {
 											}
 
 											#banner4 a {
-												color: inherit;
-												border-bottom-color: rgba(255, 255, 255, 0.5);
-											}
+												color: #422040;
+												border-bottom-color: #422040;
+						}
 
 												#banner4 a:hover {
 													border-bottom-color: rgba(255, 255, 255, 0);
@@ -2373,9 +2372,9 @@ input, select, textarea {
 													}
 
 													#banner5 a {
-														color: inherit;
-														border-bottom-color: rgba(255, 255, 255, 0.5);
-													}
+														color: #422040;
+														border-bottom-color: #422040;
+								}
 
 														#banner5 a:hover {
 															border-bottom-color: rgba(255, 255, 255, 0);
@@ -2427,9 +2426,9 @@ input, select, textarea {
 																}
 
 																#banner6 a {
-																	color: inherit;
-																	border-bottom-color: rgba(255, 255, 255, 0.5);
-																}
+																	color: #422040;
+																	border-bottom-color: #422040;
+											}
 
 																	#banner6 a:hover {
 																		border-bottom-color: rgba(255, 255, 255, 0);
@@ -2483,9 +2482,9 @@ input, select, textarea {
 																			}
 
 																			#banner7 a {
-																				color: #35b88f;
-																				border-bottom-color: #35b88f;
-																			}
+																				color: #422040;
+																				border-bottom-color: #422040;
+														}
 
 																				#banner7 a:hover {
 																					border-bottom-color: rgba(255, 255, 255, 0);
@@ -2538,9 +2537,9 @@ input, select, textarea {
 																					}
 
 																					#banner8 a {
-																						color: #35b88f;
-																						border-bottom-color: #35b88f;
-																					}
+																						color: #422040;
+																						border-bottom-color: #422040;
+																}
 
 																						#banner8 a:hover {
 																							border-bottom-color: rgba(255, 255, 255, 0);
@@ -2593,9 +2592,9 @@ input, select, textarea {
 																								}
 
 																								#banner9 a {
-																									color: #35b88f;
-																									border-bottom-color: #35b88f;
-																								}
+																									color: #422040;
+																									border-bottom-color: #422040;
+																			}
 
 																									#banner9 a:hover {
 																										border-bottom-color: rgba(255, 255, 255, 0);
@@ -2646,9 +2645,9 @@ input, select, textarea {
 																											}
 
 																											#banner10 a {
-																												color: #35b88f;
-																												border-bottom-color: #35b88f;
-																											}
+																												color: #422040;
+																												border-bottom-color: #422040;
+																						}
 
 																												#banner10 a:hover {
 																													border-bottom-color: rgba(255, 255, 255, 0);
@@ -2699,9 +2698,9 @@ input, select, textarea {
 																														}
 
 																														#banner11 a {
-																															color: #35b88f;
-																															border-bottom-color: #35b88f;
-																														}
+																															color: #422040;
+																															border-bottom-color: #422040;
+																									}
 
 																															#banner11 a:hover {
 																																border-bottom-color: rgba(255, 255, 255, 0);
