@@ -1,4 +1,4 @@
-#435965@import url("https://fonts.googleapis.com/css?family=Pacifico:300,300italic,400,600");
+@import url("https://fonts.googleapis.com/css?family=Pacifico:300,300italic,400,600");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 @import url("fontawesome-all.min.css");
 
@@ -96,7 +96,7 @@ input, select, textarea {
 		background-color: #35b88f;
 		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
 		background-repeat: repeat, no-repeat;
-		background-size: auto, 100vw auto;
+		background-size: auto, cover;
 		background-position: top left, center 0;
 		background-attachment: fixed, fixed;
 		font-family: 'Source Sans Pro', sans-serif;
@@ -2122,7 +2122,7 @@ input, select, textarea {
 	}
 
 		#banner .button {
-			color: #435965;
+			color: #6930C3;
 			text-shadow: 0 0 0.5px rgba(53, 184, 130, 0.25);
 		}
 
@@ -2169,14 +2169,14 @@ input, select, textarea {
 					color: #fff;
 					text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 					text-align: left;
-					background: #435965 url("images/banner.svg") bottom center no-repeat;
+					background: #555280 url("images/banner.svg") bottom center no-repeat;
 					padding: 5em 5em 2em 5em;
 					margin: 0;
 					background-size: 125% auto;
 				}
 
 					#banner2 .button {
-						color: #435965;
+						color: #6930C3;
 						text-shadow: 0 0 0.5px rgba(53, 184, 130, 0.25);
 					}
 
@@ -2222,14 +2222,14 @@ input, select, textarea {
 								color: #fff;
 								text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 								text-align: left;
-								background: #435965 url("images/banner.svg") bottom center no-repeat;
+								background: #555280 url("images/banner.svg") bottom center no-repeat;
 								padding: 5em 5em 2em 5em;
 								margin: 0;
 								background-size: 125% auto;
 							}
 
 								#banner3 .button {
-									color: #435965;
+									color: #6930C3;
 									text-shadow: 0 0 0.5px rgba(53, 184, 130, 0.25);
 								}
 
@@ -2275,14 +2275,14 @@ input, select, textarea {
 											color: #fff;
 											text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 											text-align: left;
-											background: #435965 url("images/banner.svg") bottom center no-repeat;
+											background: #555280 url("images/banner.svg") bottom center no-repeat;
 											padding: 5em 5em 2em 5em;
 											margin: 0;
 											background-size: 125% auto;
 										}
 
 											#banner4 .button {
-												color: #435965;
+												color: #6930C3;
 												text-shadow: 0 0 0.5px rgba(53, 184, 130, 0.25);
 											}
 
@@ -2329,14 +2329,14 @@ input, select, textarea {
 													color: #fff;
 													text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 													text-align: left;
-													background: #435965 url("images/banner.svg") bottom center no-repeat;
+													background: #555280 url("images/banner.svg") bottom center no-repeat;
 													padding: 5em 5em 2em 5em;
 													margin: 0;
 													background-size: 125% auto;
 												}
 
 													#banner5 .button {
-														color: #435965;
+														color: #6930C3;
 														text-shadow: 0 0 0.5px rgba(53, 184, 130, 0.25);
 													}
 
@@ -2382,14 +2382,14 @@ input, select, textarea {
 																color: #fff;
 																text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 																text-align: left;
-																background: #435965 url("images/banner.svg") bottom center no-repeat;
+																background: #555280 url("images/banner.svg") bottom center no-repeat;
 																padding: 5em 5em 2em 5em;
 																margin: 0;
 																background-size: 125% auto;
 															}
 
 																#banner6 .button {
-																	color: #435965;
+																	color: #6930C3;
 																	text-shadow: 0 0 0.5px rgba(53, 184, 130, 0.25);
 																}
 
@@ -2437,14 +2437,14 @@ input, select, textarea {
 																			color: #fff;
 																			text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 																			text-align: left;
-																			background: #435965 url("images/banner.svg") bottom center no-repeat;
+																			background: #555280 url("images/banner.svg") bottom center no-repeat;
 																			padding: 5em 5em 2em 5em;
 																			margin: 0;
 																			background-size: 125% auto;
 																		}
 
 																			#banner7 .button {
-																				color: #435965;
+																				color: #6930C3;
 																				text-shadow: 0 0 0.5px rgba(53, 184, 130, 0.25);
 																			}
 
@@ -2490,7 +2490,7 @@ input, select, textarea {
 																					color: #fff;
 																					text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 																					text-align: left;
-																					background: #435965 url("images/banner.svg") bottom center no-repeat;
+																					background: #555280 url("images/banner.svg") bottom center no-repeat;
 																					padding: 5em 5em 2em 5em;
 																					margin: 0;
 																					background-size: 125% auto;
@@ -2543,7 +2543,7 @@ input, select, textarea {
 																								color: #fff;
 																								text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 																								text-align: left;
-																								background: #435965 url("images/banner.svg") bottom center no-repeat;
+																								background: #555280 url("images/banner.svg") bottom center no-repeat;
 																								padding: 5em 5em 2em 5em;
 																								margin: 0;
 																								background-size: 125% auto;
@@ -2597,7 +2597,7 @@ input, select, textarea {
 																											color: #fff;
 																											text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 																											text-align: left;
-																											background: #435965 url("images/banner.svg") bottom center no-repeat;
+																											background: #555280 url("images/banner.svg") bottom center no-repeat;
 																											padding: 5em 5em 2em 5em;
 																											margin: 0;
 																											background-size: 125% auto;
@@ -2648,7 +2648,7 @@ input, select, textarea {
 																														color: #fff;
 																														text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 																														text-align: left;
-																														background: #435965 url("images/banner.svg") bottom center no-repeat;
+																														background: #555280 url("images/banner.svg") bottom center no-repeat;
 																														padding: 5em 5em 2em 5em;
 																														margin: 0;
 																														background-size: 125% auto;
