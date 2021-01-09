@@ -2132,6 +2132,7 @@ input, select, textarea {
 
 		#banner header h1 {
 			font-family: 'Pacifico', sans-serif;
+			color: #422040;
 			font-weight: normal;
 			font-size: 2em;
 			letter-spacing: normal;
@@ -2186,6 +2187,7 @@ input, select, textarea {
 
 					#banner2 header h1 {
 						font-family: 'Pacifico', sans-serif;
+						color: #422040;
 						font-weight: normal;
 						font-size: 2em;
 						letter-spacing: normal;
@@ -2239,6 +2241,7 @@ input, select, textarea {
 
 								#banner3 header h1 {
 									font-family: 'Pacifico', sans-serif;
+									color: #422040;
 									font-weight: normal;
 									font-size: 2em;
 									letter-spacing: normal;
@@ -2292,6 +2295,7 @@ input, select, textarea {
 
 											#banner4 header h1 {
 												font-family: 'Pacifico', sans-serif;
+												color: #422040;
 												font-weight: normal;
 												font-size: 2em;
 												letter-spacing: normal;
@@ -2346,6 +2350,7 @@ input, select, textarea {
 
 													#banner5 header h1 {
 														font-family: 'Pacifico', sans-serif;
+														color: #422040;
 														font-weight: normal;
 														font-size: 2em;
 														letter-spacing: normal;
@@ -2399,7 +2404,7 @@ input, select, textarea {
 
 																#banner6 header h1 {
 																	font-family: 'Pacifico', sans-serif;
-																  color: #247B5F;
+																  color: #422040;
 																	font-weight: normal;
 																	font-size: 2em;
 																	letter-spacing: normal;
@@ -2454,13 +2459,14 @@ input, select, textarea {
 																			}
 
 																			#banner7 header h1 {
-																				color: #247B5F
 																				font-family: 'Pacifico', sans-serif;
+																			  color: #422040;
 																				font-weight: normal;
 																				font-size: 2em;
 																				letter-spacing: normal;
 																				text-align:center;
 																					margin-bottom: 2em
+																			}
 																			}
 																				#banner7 header h2 {
 																					font-weight: 400;
@@ -2508,8 +2514,8 @@ input, select, textarea {
 																					}
 
 																					#banner8 header h1 {
-																						color: #247B5F
 																						font-family: 'Pacifico', sans-serif;
+																					  color: #422040;
 																						font-weight: normal;
 																						font-size: 2em;
 																						letter-spacing: normal;
@@ -2562,13 +2568,14 @@ input, select, textarea {
 																								}
 
 																								#banner9 header h1 {
-																									color: #247B5F
 																									font-family: 'Pacifico', sans-serif;
+																								  color: #422040;
 																									font-weight: normal;
 																									font-size: 2em;
 																									letter-spacing: normal;
 																									text-align:center;
-																									margin-bottom: 2em
+																										margin-bottom: 2em
+
 																								}
 
 																									#banner9 header h2 {
@@ -2616,8 +2623,8 @@ input, select, textarea {
 																												margin: 0 0 1em 0;
 																											}
 																											#banner10 header h1 {
-																											color: #247B5F
 																												font-family: 'Pacifico', sans-serif;
+																											  color: #422040;
 																												font-weight: normal;
 																												font-size: 2em;
 																												letter-spacing: normal;
@@ -2669,8 +2676,8 @@ input, select, textarea {
 																														}
 
 																														#banner11 header h1 {
-																															color: #247B5F
 																															font-family: 'Pacifico', sans-serif;
+																														  color: #422040;
 																															font-weight: normal;
 																															font-size: 2em;
 																															letter-spacing: normal;
