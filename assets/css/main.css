@@ -2144,6 +2144,7 @@ input, select, textarea {
 				font-weight: 400;
 				font-size: 1.75em;
 				letter-spacing: 8px;
+				text-align: center
 			}
 
 		#banner p {
