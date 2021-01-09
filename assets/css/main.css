@@ -2112,10 +2112,10 @@ input, select, textarea {
 
 	#banner {
 		position: relative;
-		color: #fff;
+		color: #4D5466;
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		text-align: left;
-		background: #4D5466 url("images/banner.svg") bottom center no-repeat;
+		background: #fff;
 		padding: 5em 5em 2em 5em;
 		margin: 0;
 		background-size: 125% auto;
