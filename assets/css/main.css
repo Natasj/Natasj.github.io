@@ -2117,7 +2117,7 @@ input, select, textarea {
 		text-align: left;
 		background: #fff;
 		padding: 5em 5em 2em 5em;
-		margin: 0em 2em 0em 2em;
+		margin: 0em 5em 0em 5em;
 		background-size: 125% auto;
 	}
 
@@ -2172,7 +2172,7 @@ input, select, textarea {
 					text-align: left;
 					background: #fff;
 					padding: 5em 5em 2em 5em;
-					margin: 0em 2em 0em 2em;
+					margin: 0em 5em 0em 5em;
 					background-size: 125% auto;
 				}
 
@@ -2225,7 +2225,7 @@ input, select, textarea {
 								text-align: left;
 								background: #fff;
 								padding: 5em 5em 2em 5em;
-								margin: 0em 2em 0em 2em;
+								margin: 0em 5em 0em 5em;
 								background-size: 125% auto;
 							}
 
@@ -2279,7 +2279,7 @@ input, select, textarea {
 											text-align: left;
 											background: #fff;
 											padding: 5em 5em 2em 5em;
-											margin: 0em 2em 0em 2em;
+											margin: 0em 5em 0em 5em;
 											background-size: 125% auto;
 										}
 
@@ -2334,7 +2334,7 @@ input, select, textarea {
 													text-align: left;
 													background: #fff;
 													padding: 5em 5em 2em 5em;
-													margin: 0em 2em 0em 2em;
+													margin: 0em 5em 0em 5em;
 													background-size: 125% auto;
 												}
 
@@ -2388,7 +2388,7 @@ input, select, textarea {
 																text-align: left;
 																background: #fff;
 																padding: 5em 5em 2em 5em;
-																margin: 2em 2em 0em 2em;
+																margin: 0em 5em 0em 5em;
 																background-size: 125% auto;
 															}
 
@@ -2444,7 +2444,7 @@ input, select, textarea {
 																			text-align: left;
 																			background: #fff;
 																			padding: 5em 5em 2em 5em;
-																			margin: 2em 2em 0em 2em;
+																			margin: 0em 5em 0em 5em;
 																			background-size: 125% auto;
 																		}
 
@@ -2499,7 +2499,7 @@ input, select, textarea {
 																					text-align: left;
 																					background: #fff;
 																					padding: 5em 5em 2em 5em;
-																					margin: 2em 2em 0em 2em;
+																					margin: 0em 5em 0em 5em;
 																					background-size: 125% auto;
 																				}
 
@@ -2553,7 +2553,7 @@ input, select, textarea {
 																								text-align: left;
 																								background: #fff;
 																								padding: 5em 5em 2em 5em;
-																								margin: 2em 2em 0em 2em;
+																								margin: 0em 5em 0em 5em;
 																								background-size: 125% auto;
 																							}
 
@@ -2609,7 +2609,7 @@ input, select, textarea {
 																											text-align: left;
 																											background: #fff;
 																											padding: 5em 5em 2em 5em;
-																											margin: 2em 2em 0em 2em;
+																											margin: 0em 5em 0em 5em;
 																											background-size: 125% auto;
 																										}
 
@@ -2661,7 +2661,7 @@ input, select, textarea {
 																														text-align: left;
 																														background: #fff;
 																														padding: 5em 5em 5em 5em;
-																														margin: 2em 2em 0em 2em;
+																														margin: 0em 5em 0em 5em;
 																														background-size: 125% auto;
 																													}
 
