@@ -2115,7 +2115,7 @@ input, select, textarea {
 		color: #fff;
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		text-align: left;
-		background: #555280 url("images/banner.svg") bottom center no-repeat;
+		background: #4D5466 url("images/banner.svg") bottom center no-repeat;
 		padding: 5em 5em 2em 5em;
 		margin: 0;
 		background-size: 125% auto;
@@ -2169,7 +2169,7 @@ input, select, textarea {
 					color: #fff;
 					text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 					text-align: left;
-					background: #555280 url("images/banner.svg") bottom center no-repeat;
+					background: #4D5466 url("images/banner.svg") bottom center no-repeat;
 					padding: 5em 5em 2em 5em;
 					margin: 0;
 					background-size: 125% auto;
@@ -2222,7 +2222,7 @@ input, select, textarea {
 								color: #fff;
 								text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 								text-align: left;
-								background: #555280 url("images/banner.svg") bottom center no-repeat;
+								background: #4D5466 url("images/banner.svg") bottom center no-repeat;
 								padding: 5em 5em 2em 5em;
 								margin: 0;
 								background-size: 125% auto;
@@ -2275,7 +2275,7 @@ input, select, textarea {
 											color: #fff;
 											text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 											text-align: left;
-											background: #555280 url("images/banner.svg") bottom center no-repeat;
+											background: #4D5466 url("images/banner.svg") bottom center no-repeat;
 											padding: 5em 5em 2em 5em;
 											margin: 0;
 											background-size: 125% auto;
@@ -2329,7 +2329,7 @@ input, select, textarea {
 													color: #fff;
 													text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 													text-align: left;
-													background: #555280 url("images/banner.svg") bottom center no-repeat;
+													background: #4D5466 url("images/banner.svg") bottom center no-repeat;
 													padding: 5em 5em 2em 5em;
 													margin: 0;
 													background-size: 125% auto;
@@ -2382,7 +2382,7 @@ input, select, textarea {
 																color: #fff;
 																text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 																text-align: left;
-																background: #555280 url("images/banner.svg") bottom center no-repeat;
+																background: #4D5466 url("images/banner.svg") bottom center no-repeat;
 																padding: 5em 5em 2em 5em;
 																margin: 0;
 																background-size: 125% auto;
@@ -2437,7 +2437,7 @@ input, select, textarea {
 																			color: #fff;
 																			text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 																			text-align: left;
-																			background: #555280 url("images/banner.svg") bottom center no-repeat;
+																			background: #4D5466 url("images/banner.svg") bottom center no-repeat;
 																			padding: 5em 5em 2em 5em;
 																			margin: 0;
 																			background-size: 125% auto;
@@ -2490,7 +2490,7 @@ input, select, textarea {
 																					color: #fff;
 																					text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 																					text-align: left;
-																					background: #555280 url("images/banner.svg") bottom center no-repeat;
+																					background: #4D5466 url("images/banner.svg") bottom center no-repeat;
 																					padding: 5em 5em 2em 5em;
 																					margin: 0;
 																					background-size: 125% auto;
@@ -2543,7 +2543,7 @@ input, select, textarea {
 																								color: #fff;
 																								text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 																								text-align: left;
-																								background: #555280 url("images/banner.svg") bottom center no-repeat;
+																								background: #4D5466 url("images/banner.svg") bottom center no-repeat;
 																								padding: 5em 5em 2em 5em;
 																								margin: 0;
 																								background-size: 125% auto;
@@ -2597,7 +2597,7 @@ input, select, textarea {
 																											color: #fff;
 																											text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 																											text-align: left;
-																											background: #555280 url("images/banner.svg") bottom center no-repeat;
+																											background: #4D5466 url("images/banner.svg") bottom center no-repeat;
 																											padding: 5em 5em 2em 5em;
 																											margin: 0;
 																											background-size: 125% auto;
@@ -2648,7 +2648,7 @@ input, select, textarea {
 																														color: #fff;
 																														text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 																														text-align: left;
-																														background: #555280 url("images/banner.svg") bottom center no-repeat;
+																														background: #4D5466 url("images/banner.svg") bottom center no-repeat;
 																														padding: 5em 5em 2em 5em;
 																														margin: 0;
 																														background-size: 125% auto;
@@ -2918,7 +2918,7 @@ input, select, textarea {
 			body {
 				background-color: #35b88f;
 				background-image: url("images/overlay.png"), url("../../images/bg-alt.jpg");
-				background-repeat: repeat, no-repeat;
+				background-repeat: repeat, repeat;
 				background-size: auto, 100% auto;
 				background-position: top left, top center;
 				background-attachment: scroll, scroll;
