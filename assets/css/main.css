@@ -3017,7 +3017,7 @@ input, select, textarea {
 			}
 
 				#banner br {
-					display: none;
+					display: auto;
 				}
 
 	}
