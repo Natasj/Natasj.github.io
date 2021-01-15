@@ -2110,7 +2110,7 @@ input, select, textarea {
 
 /* Banner */
 
-	#banner {
+	#about {
 		position: relative;
 		color: #3a3939;
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
@@ -2121,16 +2121,16 @@ input, select, textarea {
 		background-size: 125% auto;
 	}
 
-		#banner .button {
+		#about .button {
 			color: #6930C3;
 			text-shadow: 0 0 0.5px rgba(53, 184, 130, 0.25);
 		}
 
-		#banner header {
+		#about header {
 			margin: 0 0 1em 0;
 		}
 
-		#banner header h1 {
+		#about header h1 {
 			font-family: 'Pacifico', sans-serif;
 			color: #422040;
 			font-weight: normal;
@@ -2140,27 +2140,27 @@ input, select, textarea {
 				margin-bottom: 2em
 		}
 
-			#banner header h2 {
+			#about header h2 {
 				font-weight: 400;
 				font-size: 1.75em;
 				letter-spacing: 8px;
 				text-align: center
 			}
 
-		#banner p {
+		#about p {
 			margin: 0 0 1em 0;
 		}
 
-		#banner footer {
+		#about footer {
 			margin: 2em 0 0 0;
 		}
 
-		#banner a {
+		#about a {
 			color: #422040;
 			border-bottom-color: #422040;
 }
 
-			#banner a:hover {
+			#about a:hover {
 				border-bottom-color: rgba(255, 255, 255, 0);
 			}
 
