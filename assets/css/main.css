@@ -1579,7 +1579,8 @@ input, select, textarea {
 
 		ul.icons li {
 			display: inline-block;
-			padding-left: 0;
+			padding-left: 1em;
+			padding-right: 1em;
 			margin-top: 0;
 		}
 
