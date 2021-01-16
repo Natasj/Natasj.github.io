@@ -2906,13 +2906,7 @@ input, select, textarea {
 				font-size: 16pt;
 			}
 
-			/* Banner */
-
-				#banner {
-					padding: 2em 0 2em 0;
-					background-size: auto, 175% auto;
-				}
-					/* Header */
+		/* Header */
 
 			#header {
 				padding: 10em 0 12em 0;
