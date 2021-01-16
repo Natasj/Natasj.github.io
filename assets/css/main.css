@@ -3021,7 +3021,18 @@ input, select, textarea {
 					display: auto;
 				}
 
-	}
+				/* Banner2 */
+
+					#banner2 {
+						padding: 3.5em;
+						background-size: 200% auto;
+						margin: 0em
+					}
+
+						#banner2 br {
+							display: auto;
+						}
+
 
 
 /* Mobile */
