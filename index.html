@@ -181,6 +181,20 @@ for (i = 0; i < acc.length; i++) {
 }
 </script>
 
+<script>
+.accordion:after {
+  content: '\02795'; /* Unicode character for "plus" sign (+) */
+  font-size: 13px;
+  color: #777;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+</script>
+
 		<!-- End of accordion -->
 
 <h3><span style=font-size:1.3em;letter-spacing:normal;margin:0;padding:0>1. Train & Transfer</span><span style=font-size:1em;letter-spacing:normal;margin:0;padding:0><i>: "A clever solution to a recruitment problem"</i></span></h3>
