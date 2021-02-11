@@ -292,12 +292,13 @@ input, select, textarea {
   color: #444;
   cursor: pointer;
   padding: 18px;
+	font-size: normal;
   width: 100%;
   text-align: left;
   border: none;
   outline: none;
   transition: 0.4s;
-	border-radius: 0 em;
+	border-radius: 0;
 }
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
