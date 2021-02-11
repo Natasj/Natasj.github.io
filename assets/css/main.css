@@ -286,7 +286,6 @@ input, select, textarea {
 }
 
 .active:after {
-	content: none; /* Unicode character for "minus" sign (-) */
 }
 
 /* Container */
