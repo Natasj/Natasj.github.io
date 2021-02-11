@@ -285,6 +285,10 @@ input, select, textarea {
   color: white;
 }
 
+.active:after {
+	content: ""; /* Unicode character for "minus" sign (-) */
+}
+
 /* Container */
 
 	.container {
