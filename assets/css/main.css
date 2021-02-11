@@ -280,12 +280,12 @@ input, select, textarea {
 }
 
 /* Style the active link (or home/logo) */
-.active {
+.active1 {
   background-color: #35b88f;
   color: white;
 }
 
-.active:after {
+.active1:after {
 	background-color: #35b88f;
 	color: white;
 }
