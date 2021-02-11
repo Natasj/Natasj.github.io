@@ -286,6 +286,8 @@ input, select, textarea {
 }
 
 .active:after {
+	background-color: #35b88f;
+	color: white;
 }
 
 /* Container */
