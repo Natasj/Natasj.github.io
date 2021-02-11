@@ -245,7 +245,7 @@ input, select, textarea {
 /* Style the navigation menu */
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #35b88f;
   position: relative;
 }
 
@@ -265,7 +265,7 @@ input, select, textarea {
 
 /* Style the hamburger menu */
 .topnav a.icon {
-  background: black;
+  background-color: #35b88f;
   display: block;
   position: absolute;
   right: 0;
