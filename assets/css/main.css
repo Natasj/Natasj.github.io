@@ -2123,7 +2123,7 @@ input, select, textarea {
 	}
 
 		#header header {
-			display: inline-block;
+			display: inline;
 			padding: 0 0 4.5em 0;
 		}
 
