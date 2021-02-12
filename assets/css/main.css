@@ -1891,7 +1891,7 @@ input, select, textarea {
 				font-size: 1em;
 			  width: 100%;
 			  text-align: left;
-			  border: 1px solid white;
+			  border: 10px solid white;
 			  outline: none;
 			  transition: 0.4s;
 				border-radius: 0;
