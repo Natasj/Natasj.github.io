@@ -1888,7 +1888,7 @@ input, select, textarea {
 			  color: #444;
 			  cursor: pointer;
 			  padding: 18px;
-				font-size: 16px;
+				font-size: 1em;
 			  width: 100%;
 			  text-align: left;
 			  border: none;
