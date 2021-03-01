@@ -1886,8 +1886,8 @@ input, select, textarea {
 			.accordion {
 			  background-color: #eee;
 			  color: #444;
-				font-family: 'Source Sans Pro', sans-serif;
 				cursor: pointer;
+				font: 400 13.3333px Arial;
 			  padding: 18px;
 				font-size: 1em;
 			  width: 100%;
