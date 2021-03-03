@@ -1886,7 +1886,6 @@ input, select, textarea {
 			.accordion {
 			  background-color: #eee;
 			  color: #444;
-				font-family: 'Source Sans Pro', sans-serif;
 				cursor: pointer;
 			  padding: 18px;
 				font-size: 1em;
@@ -2307,8 +2306,8 @@ input, select, textarea {
 					}
 
 					#banner2 a {
-						color: #422040;
-						border-bottom-color: #422040;
+						color: #a8159b;
+						border-bottom-color: #a8159b;
 }
 						#banner2 a:hover {
 							border-bottom-color: rgba(255, 255, 255, 0);
