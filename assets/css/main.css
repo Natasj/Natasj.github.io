@@ -1889,7 +1889,7 @@ input, select, textarea {
 				cursor: pointer;
 			  padding: 18px;
 				font-size: 1em;
-				font-family: "Source Sans Pro"
+				font-family: 'Source Sans Pro', sans-serif;
 			  width: 100%;
 			  text-align: left;
 			  border: 10px solid white;
