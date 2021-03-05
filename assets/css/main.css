@@ -3381,29 +3381,20 @@ input, select, textarea {
 				}
 
 					#header header h1 {
-						font-size: normal;
+						font-size: 2em;
 						letter-spacing: normal;
 					}
 
-				#header footer {
-					bottom: 4.5em;
-					padding: 0 2em 0 2em;
-				}
+					#header header p {
+						border-top: solid 1px rgba(255, 255, 255, 0.5);
+						color: rgba(255, 255, 255, 0.75);
+						text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.1875);
+						font-size: 2em;
+						text-transform: none;
+						letter-spacing: 3px;
+						padding: 0;
+						margin-top: 0.35em;
 
-					#header footer:after {
-						bottom: -4.5em;
-						left: 50%;
-						height: 4.5em;
-					}
-
-					#header footer:before {
-						width: 45px;
-						height: 33px;
-						bottom: -2.25em;
-						margin-left: -22.5px;
-						margin-bottom: -16.5px;
-						background-size: 45px 33px;
-					}
 
 		/* Banner */
 
