@@ -3583,6 +3583,11 @@ input, select, textarea {
 																																					}
 		/* Footer */
 
+
+	#footer {
+	margin: 4.5em 1 1 1;
+}
+
 			#footer .icons {
 				padding: 0.5em 1.25em 0.5em 1.25em;
 			}
