@@ -3004,6 +3004,8 @@ input, select, textarea {
 
 			#header {
 				padding: 3em 0 8em 0;
+				text-shadow: 0 10px 10px rgba(0,0,0,.2);
+
 			}
 
 
@@ -3023,6 +3025,8 @@ input, select, textarea {
 
 			#header {
 				padding: 3em 0 8em 0;
+				text-shadow: 0 10px 10px rgba(0,0,0,.2);
+
 			}
 
 	}
@@ -3101,6 +3105,8 @@ input, select, textarea {
 
 			#header {
 				padding: 3em 0 8em 0;
+				text-shadow: 0 10px 10px rgba(0,0,0,.2);
+
 			}
 
 		/* Banner */
