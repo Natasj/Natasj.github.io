@@ -3241,7 +3241,7 @@ input, select, textarea {
 		/* Basic */
 
 			* {
-				text-shadow: none !important;
+				text-shadow: 0 10px 10px rgba(0,0,0,.2);
 			}
 
 			body, input, textarea, select {
