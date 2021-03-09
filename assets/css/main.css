@@ -2116,7 +2116,6 @@ input, select, textarea {
 		transition: opacity 2s ease-in-out;
 		position: relative;
 		color: #fff;
-		text-shadow: 0 10px 10px rgba(0,0,0,.2);
 		text-align: center;
 		margin: 0;
 		padding: 3em 0 8em 0;
@@ -2138,7 +2137,6 @@ input, select, textarea {
 			#header header p {
 				border-top: solid 1px rgba(255, 255, 255, 0.5);
 				color: rgba(255, 255, 255, 0.75);
-				text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.1875);
 				font-size: 1em;
 				text-transform: none;
 				letter-spacing: 3px;
@@ -3004,8 +3002,6 @@ input, select, textarea {
 
 			#header {
 				padding: 3em 0 8em 0;
-				text-shadow: 0 10px 10px rgba(0,0,0,.2);
-
 			}
 
 
@@ -3025,8 +3021,6 @@ input, select, textarea {
 
 			#header {
 				padding: 3em 0 8em 0;
-				text-shadow: 0 10px 10px rgba(0,0,0,.2);
-
 			}
 
 	}
@@ -3105,8 +3099,6 @@ input, select, textarea {
 
 			#header {
 				padding: 3em 0 8em 0;
-				text-shadow: 0 10px 10px rgba(0,0,0,.2);
-
 			}
 
 		/* Banner */
