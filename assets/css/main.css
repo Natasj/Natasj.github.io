@@ -3299,7 +3299,7 @@ input, select, textarea {
 
 			h2 {
 				font-size: 1.25em;
-				letter-spacing: 4px;
+				letter-spacing: 1px;
 			}
 
 		/* List */
@@ -3434,7 +3434,7 @@ input, select, textarea {
 						color: 00000;
 						font-size: 1em;
 						text-transform: none;
-						letter-spacing: 3px;
+						letter-spacing: 1px;
 						padding: 0;
 						margin-top: 0.35em;
 
