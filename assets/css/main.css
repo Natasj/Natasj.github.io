@@ -2139,8 +2139,8 @@ input, select, textarea {
 			.hero-image {
 			background-image: url("../../images/ClipartKey_122899.png");
 			background-color: #35b88f;
-			height: 14em;
-			width: 45em;
+			height: 12em;
+			width: 40em;
 			background-position: top;
 			background-repeat: no-repeat;
 			background-size: cover;
@@ -3443,7 +3443,7 @@ input, select, textarea {
 									.hero-image {
 									background-image: url("../../images/ClipartKey_122899.png");
 									background-color: #35b88f;
-									height: 20em;
+									height: 15em;
 									width: 20em;
 									background-position: top;
 									background-repeat: no-repeat;
