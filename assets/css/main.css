@@ -2135,16 +2135,16 @@ input, select, textarea {
 			}
 
 			#header header h2 {
-				color: #0000;
+				color: #00000;
 			}
 
 			#header header h3 {
-				color: #0000;
+				color: #00000;
 			}
 
 			#header header p {
 				border-top: solid 1px rgba(255, 255, 255, 0.5);
-				color: #0000;
+				color: #00000;
 				font-size: 1em;
 				text-transform: none;
 				letter-spacing: 3px;
