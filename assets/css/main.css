@@ -2141,7 +2141,7 @@ input, select, textarea {
 			background-color: #35b88f;
 			height: 12em;
 			width: 40em;
-			background-position: top;
+			background-position: center;
 			background-repeat: no-repeat;
 			background-size: cover;
 			position: relative;
@@ -3136,7 +3136,7 @@ input, select, textarea {
 						background-color: #35b88f;
 						height: 17em;
 						width: 20em;
-						background-position: top;
+						background-position: center;
 						background-repeat: no-repeat;
 						background-size: cover;
 						position: relative;
