@@ -2115,7 +2115,6 @@ input, select, textarea {
 		-ms-transition: opacity 2s ease-in-out;
 		transition: opacity 2s ease-in-out;
 		position: relative;
-		color: #ffff;
 		text-align: center;
 		margin: 0;
 		padding: 3em 0 8em 0;
@@ -2130,13 +2129,22 @@ input, select, textarea {
 			#header header h1 {
 				font-family: 'Pacifico', sans-serif;
 				font-weight: normal;
+				color: #ffff;
 				font-size: 4em;
 				letter-spacing: normal;
 			}
 
+			#header header h2 {
+				color: #0000;
+			}
+
+			#header header h3 {
+				color: #0000;
+			}
+
 			#header header p {
 				border-top: solid 1px rgba(255, 255, 255, 0.5);
-				color: #422040;
+				color: #0000;
 				font-size: 1em;
 				text-transform: none;
 				letter-spacing: 3px;
