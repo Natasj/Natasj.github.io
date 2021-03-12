@@ -2115,7 +2115,7 @@ input, select, textarea {
 		-ms-transition: opacity 2s ease-in-out;
 		transition: opacity 2s ease-in-out;
 		position: relative;
-		color: #422040;
+		color: #ffff;
 		text-align: center;
 		margin: 0;
 		padding: 3em 0 8em 0;
