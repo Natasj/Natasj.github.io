@@ -3061,10 +3061,6 @@ input, select, textarea {
 
 	}
 
-/* Narrow */
-
-	@media screen and (max-width: 840px) {
-
 		/* Basic */
 
 			body {
